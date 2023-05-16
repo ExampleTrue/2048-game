@@ -1,0 +1,12 @@
+.logo_item {
+  width: 128px;
+  height: 128px;
+  margin: auto;
+}
+
+.header {
+  display: grid;
+  height: 20vh;
+  margin-bottom: 20px;
+  justify-content: center;
+}

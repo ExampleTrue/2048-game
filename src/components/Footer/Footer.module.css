@@ -1,0 +1,12 @@
+.footer {
+  --footer_height: 12vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: mediumpurple;
+  width: 100vw;
+  height: var(--footer_height);
+  bottom: 0;
+}
